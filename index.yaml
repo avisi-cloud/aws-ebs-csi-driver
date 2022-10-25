@@ -6,10 +6,10 @@ entries:
         - kind: added
           description: Custom controller.updateStrategy to set controller deployment strategy.
     apiVersion: v2
-    appVersion: 1.12.0
-    created: "2022-10-09T18:45:56.154570238Z"
+    appVersion: 1.12.1
+    created: "2022-10-25T16:54:16.420173369Z"
     description: A Helm chart for AWS EBS CSI Driver
-    digest: cde81bba7c18e6e474999ffc21c4f592d935f08ff73df1762eafcb943804ce99
+    digest: 59ef95b0956c86558c533556821f356f750dd98067e9ba1e93e4990d6ce892f2
     home: https://github.com/kubernetes-sigs/aws-ebs-csi-driver
     keywords:
     - aws
@@ -25,6 +25,6 @@ entries:
     sources:
     - https://github.com/kubernetes-sigs/aws-ebs-csi-driver
     urls:
-    - https://github.com/avisi-cloud/aws-ebs-csi-driver/releases/download/helm-chart-aws-ebs-csi-driver-2.12.0/aws-ebs-csi-driver-2.12.0.tgz
-    version: 2.12.0
-generated: "2022-10-09T18:45:56.15473614Z"
+    - https://github.com/avisi-cloud/aws-ebs-csi-driver/releases/download/helm-chart-aws-ebs-csi-driver-2.12.1/aws-ebs-csi-driver-2.12.1.tgz
+    version: 2.12.1
+generated: "2022-10-25T16:54:16.420177569Z"
